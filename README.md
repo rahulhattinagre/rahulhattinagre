@@ -9,13 +9,13 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 👨‍💻 Full Stack Developer with a strong interest in Web and Android Development.
+- 👨‍💻 Full Stack Developer with a strong interest in Web Development.
 
-- 📱 Experienced in building modern Android applications using Java and XML.
+- 📱 Experienced in building modern web applications using Java,JS,HTML,CSS.
 
 - 🌐 Proficient in developing responsive web applications using HTML, CSS, and JavaScript.
 
-- 🚀 Continuously learning advanced Android architectures and web performance optimization to build scalable and efficient applications.
+- 🚀 Continuously learning advanced  web performance optimization to build scalable and efficient applications.
 
 - 📬 Reach me at: [rahulhattinagre@gmail.com](mailto:rahulhattinagre@gmail.com)
 
@@ -27,8 +27,7 @@
 ### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-hattinagre-6ab532307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-hattinagre-6ab532307/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/harsshpatil.11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harsshpatil.11/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/harshpatil6054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/harshpatil6054" height="30" width="40" /></a>
+<a href="https" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harsshpatil.11/" height="30" width="40" /></a> target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/harshpatil6054" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/harsh6054/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harsh6054/" height="30" width="40" /></a>
 <a href="https://www.propeers.in/profile/harsh6054" target="blank"><img align="center"src="https://img.icons8.com/fluency/48/domain.png"alt="propeers"height="30"width="40" />
 </a>
