@@ -1,59 +1,203 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi 👋, I'm Hattinagre Rahul </h1>
-<h3 align="center">Passionate Developer| Backend Learner | Web & Application Developer </h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi 👋, I'm Rahul Hattinagre</h1>
 
+<h3 align="center">
+Computer Engineering Student | Java Backend Developer | Full Stack Developer | Spring Boot Enthusiast
+</h3>
 
-###  About Me:
+<p align="center">
+Passionate about building secure, scalable and high-performance web applications using Java, Spring Boot, React.js and modern technologies.
+</p>
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rahulhattinagre&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-- 👨‍💻 Full Stack Developer with a strong interest in Web Development.
+---
 
-- 📱 Experienced in building modern web applications using Java,JS,HTML,CSS.
+# 🙋 About Me
 
-- 🌐 Proficient in developing responsive web applications using HTML, CSS, and JavaScript.
+<img align="right" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 🚀 Continuously learning advanced  web performance optimization to build scalable and efficient applications.
+🎓 B.E. Computer Engineering Student at **Sinhgad Institute of Technology & Science, Pune**
 
-- 📬 Reach me at: [rahulhattinagre@gmail.com](mailto:rahulhattinagre@gmail.com)
+💻 Passionate about Java Backend Development, Full Stack Web Development, REST APIs and Problem Solving.
 
-📄 Know about my experiences → [View Resume]()
+🌱 Currently Learning
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- Spring Boot
+- Spring Security
+- Advanced DSA
+- SQL
+- System Design
 
+💡 Areas of Interest
 
-### Connect with me
+- Backend Development
+- Full Stack Development
+- Secure Authentication
+- REST API Development
+- Software Engineering
+
+🏆 Highlights
+
+✔ CGPA **8.32/10**
+
+✔ Diploma in Information Technology (**87.94%**)
+
+✔ Full Stack Web Development Intern @ ApexPlanet Software Pvt. Ltd.
+
+✔ Python Intern @ Ignitech Company
+
+✔ Passionate about continuously improving coding and problem-solving skills through LeetCode.
+
+📫 **Email**
+
+rahulhattinagre@gmail.com
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/rahul-hattinagre-6ab532307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-hattinagre-6ab532307/" height="30" width="40" /></a>
-<a href="https" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harsshpatil.11/" height="30" width="40" /></a> target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/harshpatil6054" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/harsh6054/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/harsh6054/" height="30" width="40" /></a>
-<a href="https://www.propeers.in/profile/harsh6054" target="blank"><img align="center"src="https://img.icons8.com/fluency/48/domain.png"alt="propeers"height="30"width="40" />
+
+<a href="https://www.linkedin.com/in/rahul-hattinagre-6ab532307/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Languages and Tools
+<a href="mailto:rahulhattinagre@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/rahulhattinagre">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/u/rahul__hattinagre123/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,js,bootstrap,react,css,mysql,mongodb,netlify,github,django,vscode,devto,eclipse,java,linux,php,powershell,wordpress,dotnet&perline=6" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,spring,django,firebase,git,github,postman,maven,vscode,eclipse,linux,php,dotnet,wordpress&perline=7"/>
+
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
+# 🚀 Featured Projects
 
-###  GitHub Activity Graph
+## 📌 Task Management Application
+
+**Tech Stack**
+
+Java • Spring Boot • Spring Security • JWT • React.js • Tailwind CSS • MySQL • REST API
+
+### Features
+
+- Secure JWT Authentication
+- Role-Based Authorization
+- RESTful APIs
+- Task Creation & Management
+- Responsive UI
+- Spring Security Integration
+
+---
+
+## 📌 Full Stack Job Portal
+
+**Tech Stack**
+
+MongoDB • Express.js • React.js • Node.js
+
+### Features
+
+- Recruiter Dashboard
+- Job Seeker Dashboard
+- Authentication & Authorization
+- Job Posting
+- Apply Jobs
+- REST APIs
+- Responsive Design
+
+---
+
+# 🏆 LeetCode
 
 <p align="center">
-  <a href="https://github.com/rahulhattinagre/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulhattinagre&theme=react" alt="GitHub Activity Graph">
-  </a>
+
+<img src="https://leetcard.jacoblin.cool/rahul__hattinagre123?theme=dark&font=Karma&ext=heatmap"/>
+
 </p>
 
+### Current Progress
+
+- ✅ Problems Solved: **28**
+- 🟢 Easy: **18**
+- 🟡 Medium: **9**
+- 🔴 Hard: **1**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulhattinagre&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulhattinagre&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulhattinagre&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulhattinagre&theme=react-dark"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✔ Data Structures & Algorithms
+
+✔ LeetCode Problem Solving
+
+✔ SQL
+
+✔ Spring Boot
+
+✔ Spring Security
+
+✔ REST APIs
+
+✔ System Design Basics
+
+---
+
+# 💬 Quote
+
+> "Code. Learn. Build. Repeat."
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
