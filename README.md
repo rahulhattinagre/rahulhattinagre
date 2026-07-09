@@ -66,27 +66,6 @@ I am always eager to learn new technologies, work on real-world projects, and gr
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 Task Management Application
-
-**Java | Spring Boot | Spring Security | JWT | React.js | Tailwind CSS | MySQL | REST APIs**
-
-- Developed a secure full-stack task management application.
-- Implemented JWT Authentication and Role-Based Authorization.
-- Built RESTful APIs for task management.
-- Designed a responsive React.js frontend integrated with Spring Boot.
-
----
-
-### 📌 Full Stack Job Portal
-
-**MongoDB | Express.js | React.js | Node.js**
-
-- Developed a MERN Stack Job Portal connecting recruiters and job seekers.
-- Implemented Authentication & Authorization.
-- Built Recruiter and Candidate Dashboards.
-- Integrated REST APIs with MongoDB for efficient data management.
 
 ---
 
