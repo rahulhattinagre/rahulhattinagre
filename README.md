@@ -7,168 +7,108 @@ Computer Engineering Student | Java Backend Developer | Full Stack Developer | S
 </h3>
 
 <p align="center">
-Passionate about building secure, scalable and high-performance web applications using Java, Spring Boot, React.js and modern technologies.
+Passionate about building secure, scalable, and user-friendly web applications using Java, Spring Boot, React.js, MySQL, and modern web technologies.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rahulhattinagre&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=rahulhattinagre&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🙋 About Me
+## 🙋 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-🎓 B.E. Computer Engineering Student at **Sinhgad Institute of Technology & Science, Pune**
+I am a Computer Engineering student with a strong interest in backend and full-stack web development. I enjoy building secure, scalable, and user-friendly applications using **Java, Spring Boot, React.js, MySQL, and MongoDB**. I have hands-on experience developing RESTful APIs, implementing **JWT-based authentication**, and designing responsive user interfaces.
 
-💻 Passionate about Java Backend Development, Full Stack Web Development, REST APIs and Problem Solving.
+I have completed internships in **Full Stack Web Development** and **Python**, where I gained practical experience in software development, responsive web design, and programming fundamentals. Alongside development, I actively practice **Data Structures & Algorithms** and continuously improve my problem-solving skills through **LeetCode**.
 
-🌱 Currently Learning
+I am always eager to learn new technologies, work on real-world projects, and grow as a Software Engineer while building impactful applications.
 
-- Spring Boot
-- Spring Security
-- Advanced DSA
-- SQL
-- System Design
+📧 **Email:** **rahulhattinagre@gmail.com**
 
-💡 Areas of Interest
-
-- Backend Development
-- Full Stack Development
-- Secure Authentication
-- REST API Development
-- Software Engineering
-
-🏆 Highlights
-
-✔ CGPA **8.32/10**
-
-✔ Diploma in Information Technology (**87.94%**)
-
-✔ Full Stack Web Development Intern @ ApexPlanet Software Pvt. Ltd.
-
-✔ Python Intern @ Ignitech Company
-
-✔ Passionate about continuously improving coding and problem-solving skills through LeetCode.
-
-📫 **Email**
-
-rahulhattinagre@gmail.com
+📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/rahul-hattinagre-6ab532307/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:rahulhattinagre@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://github.com/rahulhattinagre">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://leetcode.com/u/rahul__hattinagre123/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
 </a>
 
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,spring,django,firebase,git,github,postman,maven,vscode,eclipse,linux,php,dotnet,wordpress&perline=7"/>
+<img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,css,js,bootstrap,react,tailwind,nodejs,express,spring,django,mysql,mongodb,firebase,github,vscode,eclipse,maven,postman,linux,php,dotnet,wordpress&perline=7"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 📌 Task Management Application
+### 📌 Task Management Application
 
-**Tech Stack**
+**Java | Spring Boot | Spring Security | JWT | React.js | Tailwind CSS | MySQL | REST APIs**
 
-Java • Spring Boot • Spring Security • JWT • React.js • Tailwind CSS • MySQL • REST API
-
-### Features
-
-- Secure JWT Authentication
-- Role-Based Authorization
-- RESTful APIs
-- Task Creation & Management
-- Responsive UI
-- Spring Security Integration
+- Developed a secure full-stack task management application.
+- Implemented JWT Authentication and Role-Based Authorization.
+- Built RESTful APIs for task management.
+- Designed a responsive React.js frontend integrated with Spring Boot.
 
 ---
 
-## 📌 Full Stack Job Portal
+### 📌 Full Stack Job Portal
 
-**Tech Stack**
+**MongoDB | Express.js | React.js | Node.js**
 
-MongoDB • Express.js • React.js • Node.js
-
-### Features
-
-- Recruiter Dashboard
-- Job Seeker Dashboard
-- Authentication & Authorization
-- Job Posting
-- Apply Jobs
-- REST APIs
-- Responsive Design
+- Developed a MERN Stack Job Portal connecting recruiters and job seekers.
+- Implemented Authentication & Authorization.
+- Built Recruiter and Candidate Dashboards.
+- Integrated REST APIs with MongoDB for efficient data management.
 
 ---
 
-# 🏆 LeetCode
+## 🏆 LeetCode
 
-<p align="center">
+<div align="center">
 
-<img src="https://leetcard.jacoblin.cool/rahul__hattinagre123?theme=dark&font=Karma&ext=heatmap"/>
+### 💪 Problem Solving Progress
 
-</p>
+✅ **28 Problems Solved**
 
-### Current Progress
+🟢 **Easy:** 18 &nbsp;&nbsp;&nbsp;
+🟡 **Medium:** 9 &nbsp;&nbsp;&nbsp;
+🔴 **Hard:** 1
 
-- ✅ Problems Solved: **28**
-- 🟢 Easy: **18**
-- 🟡 Medium: **9**
-- 🔴 Hard: **1**
+🔗 **Profile:** https://leetcode.com/u/rahul__hattinagre123/
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulhattinagre&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulhattinagre&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulhattinagre&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -178,26 +118,8 @@ MongoDB • Express.js • React.js • Node.js
 
 ---
 
-# 📚 Currently Learning
+## 💬 Quote
 
-✔ Data Structures & Algorithms
-
-✔ LeetCode Problem Solving
-
-✔ SQL
-
-✔ Spring Boot
-
-✔ Spring Security
-
-✔ REST APIs
-
-✔ System Design Basics
-
----
-
-# 💬 Quote
-
-> "Code. Learn. Build. Repeat."
+> **"Code. Learn. Build. Repeat."**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
