@@ -69,7 +69,7 @@ I am always eager to learn new technologies, work on real-world projects, and gr
 
 ---
 
-🔗 **Profile:** https://leetcode.com/u/rahul__hattinagre123/
+🔗 **Profile:** [https://leetcode.com/u/rahul__hattinagre123/](https://leetcode.com/u/rahullll__49/)
 
 </div>
 
