@@ -69,18 +69,6 @@ I am always eager to learn new technologies, work on real-world projects, and gr
 
 ---
 
-## 🏆 LeetCode
-
-<div align="center">
-
-### 💪 Problem Solving Progress
-
-✅ **28 Problems Solved**
-
-🟢 **Easy:** 18 &nbsp;&nbsp;&nbsp;
-🟡 **Medium:** 9 &nbsp;&nbsp;&nbsp;
-🔴 **Hard:** 1
-
 🔗 **Profile:** https://leetcode.com/u/rahul__hattinagre123/
 
 </div>
