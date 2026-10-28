@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Hattinagre</h1>
 
 <h3 align="center">
-Software Development Engineer (SDE) | Java | Spring Boot | Data Structures & Algorithms
+Software Development Engineer | Java | Spring Boot | Data Structures & Algorithms
 </h3>
 
 <p align="center">
@@ -34,11 +34,15 @@ Software Developer with a strong foundation in **Java, Data Structures & Algorit
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
+<a href="mailto:rahulhattinagre@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
 <a href="https://github.com/rahulhattinagre">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/rahul__hattinagre123/">
+<a href="https://leetcode.com/u/rahullll__49/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40"/>
 </a>
 
@@ -50,7 +54,7 @@ Software Developer with a strong foundation in **Java, Data Structures & Algorit
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,c,cpp,py,java,html,css,js,bootstrap,react,tailwind,nodejs,express,spring,django,mysql,mongodb,firebase,github,vscode,eclipse,maven,postman,linux,php,dotnet,wordpress&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,php,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,spring,django,dotnet,wordpress,mysql,mongodb,firebase,prisma,git,github,docker,postman,maven,linux,vscode,eclipse&perline=8"/>
 
 </p>
 
@@ -58,7 +62,7 @@ Software Developer with a strong foundation in **Java, Data Structures & Algorit
 
 ## 🧠 LeetCode
 
-🔗 **Profile:** [https://leetcode.com/u/rahul__hattinagre123/](https://leetcode.com/u/rahul__hattinagre123/)
+🔗 **Profile:** [https://leetcode.com/u/rahullll__49/](https://leetcode.com/u/rahullll__49/)
 
 ---
 
