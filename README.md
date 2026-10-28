@@ -66,16 +66,6 @@ Software Developer with a strong foundation in **Java, Data Structures & Algorit
 
 ---
 
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulhattinagre&theme=react-dark"/>
-
-</p>
-
----
-
 ## 💬 Quote
 
 > **"Code. Learn. Build. Repeat."**
