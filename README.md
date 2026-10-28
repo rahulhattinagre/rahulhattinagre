@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Hattinagre</h1>
 
 <h3 align="center">
-Computer Engineering Student | Java Backend Developer | Full Stack Developer | Spring Boot Enthusiast
+Software Development Engineer (SDE) | Java | Spring Boot | Data Structures & Algorithms
 </h3>
 
 <p align="center">
-Passionate about building secure, scalable, and user-friendly web applications using Java, Spring Boot, React.js, MySQL, and modern web technologies.
+Building secure, scalable backend applications and REST APIs using Java, Spring Boot, Spring Security, JPA, Hibernate, and MySQL.
 </p>
 
 <p align="center">
@@ -20,15 +20,9 @@ Passionate about building secure, scalable, and user-friendly web applications u
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-I am a Computer Engineering student with a strong interest in backend and full-stack web development. I enjoy building secure, scalable, and user-friendly applications using **Java, Spring Boot, React.js, MySQL, and MongoDB**. I have hands-on experience developing RESTful APIs, implementing **JWT-based authentication**, and designing responsive user interfaces.
-
-I have completed internships in **Full Stack Web Development** and **Python**, where I gained practical experience in software development, responsive web design, and programming fundamentals. Alongside development, I actively practice **Data Structures & Algorithms** and continuously improve my problem-solving skills through **LeetCode**.
-
-I am always eager to learn new technologies, work on real-world projects, and grow as a Software Engineer while building impactful applications.
+Software Developer with a strong foundation in **Java, Data Structures & Algorithms, and Object-Oriented Programming**. I build RESTful APIs and secure backend applications using **Spring Boot, Spring Security, JPA, Hibernate, and MySQL**, and I have hands-on experience through internships and projects, including **GenAI/LLM integration**.
 
 📧 **Email:** **rahulhattinagre@gmail.com**
-
-📄 **Resume:** [View Resume](YOUR_RESUME_LINK)
 
 ---
 
@@ -38,10 +32,6 @@ I am always eager to learn new technologies, work on real-world projects, and gr
 
 <a href="https://www.linkedin.com/in/rahul-hattinagre-6ab532307/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:rahulhattinagre@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://github.com/rahulhattinagre">
@@ -66,12 +56,9 @@ I am always eager to learn new technologies, work on real-world projects, and gr
 
 ---
 
+## 🧠 LeetCode
 
----
-
-🔗 **Profile:** [https://leetcode.com/u/rahul__hattinagre123/](https://leetcode.com/u/rahullll__49/)
-
-</div>
+🔗 **Profile:** [https://leetcode.com/u/rahul__hattinagre123/](https://leetcode.com/u/rahul__hattinagre123/)
 
 ---
 
